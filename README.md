@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m  4rd year student at Atilim University.<br><br>🔭 I’m currently working on RPA, Deep Learning, Metaverse project.<br><br>🌱 I’m currently learning Python, Spring Boot.<br><br>💬 You can contact me via email : unalmissena89@gmail.com
+⚡ I’m  a 4th-year student at Atilim University.<br><br>🔭 I’m currently working on RPA, Deep Learning, and Metaverse project.<br><br>🌱 I’m currently learning Python, Spring Boot, and .Net.<br><br>💬 You can contact me via email: unalmissena89@gmail.com
 
 
 ## 🌐 Socials:
