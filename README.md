@@ -8,7 +8,8 @@ Kafka-based microservices migration that scaled supported device capacity from
 use AI coding agents (Claude Code, Cursor) as part of my regular workflow.
 
 ## Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sena-ünalmış-383719240) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@senaunalmis) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sena-ünalmış-383719240) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@senaunalmis) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:unalmissena@gmail.com)
+
 
 ### Currently
 Building Digital Cortex, a multi-agent personal knowledge and task system with
@@ -42,5 +43,4 @@ FastAPI, Redis, RabbitMQ, Docker Compose (backend); React, Recharts (frontend)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=senaunalmis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=senaunalmis&theme=dark&hide_border=true)](https://git.io/streak-stats)
