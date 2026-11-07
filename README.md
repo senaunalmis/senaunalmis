@@ -43,3 +43,4 @@ FastAPI, Redis, RabbitMQ, Docker Compose (backend); React, Recharts (frontend)
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=senaunalmis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
